@@ -1,7 +1,7 @@
 sp.lua
 ======
 
-> make sproto friendly.
+> make [sproto](https://github.com/cloudwu/sproto) user friendly
 
 How to use
 ----------
