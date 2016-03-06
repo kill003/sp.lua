@@ -1,7 +1,7 @@
 sp.lua
 ======
 
-> make [sproto](https://github.com/cloudwu/sproto) user friendly
+> make [sproto](https://github.com/cloudwu/sproto) rpc user friendly
 
 How to use
 ----------
