@@ -1,7 +1,7 @@
 sp.lua
 ======
 
-> make [sproto](https://github.com/cloudwu/sproto) rpc user friendly
+> for skynet, make sproto rpc user friendly
 
 How to use
 ----------
