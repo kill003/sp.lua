@@ -1,7 +1,7 @@
 sp.lua
 ======
 
-> for skynet.. make sproto rpc user friendly
+> for skynet.. make sproto rpc more intuitive
 
 How to use
 ----------
